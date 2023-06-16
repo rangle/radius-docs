@@ -1,5 +1,5 @@
 
-![Alternative Text](../assets/images/isometric-layouts-fw.jpg)
+![Alternative Text](../assets/images/isomorphic-layouts-fw.svg)
 
 # Isomorphic layouts
 
@@ -9,7 +9,7 @@ Transferring complex layouts to different screen sizes takes a lot of time due t
 
 ## Watch the demo
 
-![Alternative Text](../assets/images/video-placeholder.jpg)
+![Alternative Text](../assets/images/video-placeholder.svg)
 
 
 **Foundations**

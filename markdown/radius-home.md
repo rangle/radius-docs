@@ -53,3 +53,5 @@ From tokens to icons to getting organized, explore our approach.
 Design Systems are a new way of working. 
 
 Finding your flow may take some time, but rest assured, we'll be readily available to support you at any capacity. Our commitment lies in the "teach a man to fish" philosophy. Our goal is to equip you with the knowledge to thrive well beyond our time together. Our journey will be educational, inspirational, and transformational. Let’s chat
+
+Next: [Design Context as Code](design-context-as-code.md)

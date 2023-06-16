@@ -1,5 +1,5 @@
 
-![Alternative Text](../assets/images/radius-home.jpg)
+![Alternative Text](../assets/images/radius-home.svg)
 
 # What is Radius?
 

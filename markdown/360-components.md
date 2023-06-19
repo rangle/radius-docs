@@ -1,4 +1,4 @@
-![Alternative Text](../assets/images/360-components-fw.jpg)
+![Alternative Text](../assets/images/360-components-fw.svg)
 
 # 360˚ components
 
@@ -8,7 +8,7 @@ Components like buttons may seem simple, but they can actually be quite complex 
 
 ## Watch the demo
 
-![Alternative Text](../assets/images/video-placeholder.jpg)
+![Alternative Text](../assets/images/video-placeholder.svg)
 
 
 **Foundations**

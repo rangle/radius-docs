@@ -1,5 +1,5 @@
 
-![Alternative Text](../assets/images/design-context-as-code-fw.jpg)
+![Alternative Text](../assets/images/design-context-as-code-fw.svg)
 
 # Design context as code
 
@@ -7,7 +7,7 @@
 
 When there are too many design elements to handle, things can get messy and expensive. It can also make the design system inflexible and prone to breaking. With Radius, you can make changes smoothly, without any problems. Let's explore a scenario to see how it all comes together.
 
-![Alternative Text](../assets/images/video-placeholder.jpg)
+![Alternative Text](../assets/images/video-placeholder.svg)
 
 ## Resources
 

@@ -10,43 +10,43 @@ Our goal is to enable teams with powerful and user-friendly tools that superchar
 
 ## Features
 
-![Alternative Text](../assets/images/design-context-as-code.jpg)
+![Alternative Text](../assets/images/design-context-as-code.svg)
 
 Design context as code
 
-![Alternative Text](../assets/images/isomorphic-layouts.jpg)
+![Alternative Text](../assets/images/isomorphic-layouts.svg)
 
 Isomorphic layouts
 
-![Alternative Text](../assets/images/360-components.jpg)
+![Alternative Text](../assets/images/360-components.svg)
 
 360˚ components
 
-![Alternative Text](../assets/images/tracker.jpg)
+![Alternative Text](../assets/images/tracker.svg)
 
 Tracker
 
 ## Resources
 
-![Alternative Text](../assets/images/process.jpg)
+![Alternative Text](../assets/images/process.svg)
 
 **Process**
 
 From governance to creating components, explore our approach.
 
-![Alternative Text](../assets/images/development.jpg)
+![Alternative Text](../assets/images/development.svg)
 
 **Development**
 
 From to tokens to tracking component performance explore our approach.
 
-![Alternative Text](../assets/images/design.jpg)
+![Alternative Text](../assets/images/design.svg)
 
 **Design**
 
 From tokens to icons to getting organized, explore our approach.
 
-![Alternative Text](../assets/images/radius-x-rangle.jpg)
+![Alternative Text](../assets/images/radius-x-rangle.svg)
 
 # Learning. Curved.
 

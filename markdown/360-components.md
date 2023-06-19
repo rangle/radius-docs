@@ -27,4 +27,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-Back: [Isomorphic Layouts](isomorphic-layouts.md) | Next: [Tracker](traker.md)
+Back: [Isomorphic Layouts](360-components.md) | Next: [Tracker](process.md)
